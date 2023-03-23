@@ -1,0 +1,6 @@
+framework module TPhoneRTCSDK {
+  umbrella header "TPhoneRTCSDK.h"
+
+  export *
+  module * { export * }
+}
