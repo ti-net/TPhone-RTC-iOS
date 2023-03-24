@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint TPhone-RTC-iOS.podspec' to ensure this is a
+#  Be sure to run `pod spec lint TPhoneRTCSDK.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -27,7 +27,8 @@ TODO: Add long description of the pod here.
   s.author           = { 'gyb1314' => 'gyb_1314@126.com' }
   s.source           = { :git => 'git@github.com:ti-net/TPhone-RTC-iOS.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
+ # s.ios.deployment_target = '9.0'
+  s.platform     = :ios, "9.0"
 
   s.vendored_frameworks  = "TPhoneRTCSDK.framework","TPhoneSDKCore.xcframework"
   #s.pod_target_xcconfig = {'VALID_ARCHS'=>'arm64 x86_64 armv7'}
