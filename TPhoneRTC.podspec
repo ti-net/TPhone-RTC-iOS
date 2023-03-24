@@ -8,9 +8,9 @@
 
 
 Pod::Spec.new do |s|
-  s.name         = "TPhoneRTCSDK"
+  s.name         = "TPhoneRTC"
   s.version      = "1.0.0"
-  s.summary      = "TPhoneRTCSDK iOS实时语音呼叫SDK"
+  s.summary      = "TPhoneRTC iOS实时语音呼叫SDK"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
  # s.ios.deployment_target = '9.0'
   s.platform     = :ios, "9.0"
 
-  s.vendored_frameworks  = "TPhoneRTCSDK.framework","TPhoneSDKCore.xcframework"
+  s.vendored_frameworks  = "TPhoneRTC.framework","TPhoneSDKCore.xcframework"
   #s.pod_target_xcconfig = {'VALID_ARCHS'=>'arm64 x86_64 armv7'}
   s.pod_target_xcconfig = {'VALID_ARCHS'=>'arm64 x86_64 armv7','EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
