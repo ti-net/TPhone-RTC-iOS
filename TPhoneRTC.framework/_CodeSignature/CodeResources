@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AgoraRtcKit.framework/AgoraRtcKit</key>
 		<data>
-		w0r6eeQW839SvYCgb8PzykOGTgI=
+		kUpZ0yroTHoF0dEJcUpcFowWL7Q=
 		</data>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/AgoraRtmKit</key>
 		<data>
-		sMy3WPqI+8+y3hsvJU0XhhHVhMs=
+		vyAem0Gu94aW5tb4UYHIs+l1xvw=
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/AgoraSoundTouch</key>
 		<data>
-		XtTWBN/kJkgPLBQ6X5vQU0KCIqs=
+		oyMv5b2cvKgqLZKb40Ip//Zei9I=
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Agorafdkaac</key>
 		<data>
-		ATs8BlYt+fdWY6JjfKC0wRO4s4A=
+		pigtMeJZJDAbGG6P96TJ/Xy+k6I=
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w0r6eeQW839SvYCgb8PzykOGTgI=
+			kUpZ0yroTHoF0dEJcUpcFowWL7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			z7JTyTh8SJBwy6cLc6Gqkk5hMm4ljRy69suz+wHiPyU=
+			q7g7wUdo3RbVrnCArC/YlEKt7o/MfErxS2+XgRvD+dM=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
@@ -116,11 +116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sMy3WPqI+8+y3hsvJU0XhhHVhMs=
+			vyAem0Gu94aW5tb4UYHIs+l1xvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zX+aFc701wmVRsFiAjU74jvj/03hdan76juEQeNrj4U=
+			wJ/9XPoQDRSChwdMu0PaoqCADQeYTuqM4E0gNWnRacM=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
@@ -149,11 +149,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XtTWBN/kJkgPLBQ6X5vQU0KCIqs=
+			oyMv5b2cvKgqLZKb40Ip//Zei9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			0jDe1+ZEI2qn62zkop4uuW2X04AZTaWvZrierhDtlWo=
+			dGdFQVjIPQKEqvMoxItPE/2KcsLq6MNyYdYPXo6nSho=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
@@ -182,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ATs8BlYt+fdWY6JjfKC0wRO4s4A=
+			pigtMeJZJDAbGG6P96TJ/Xy+k6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kfh4VtOURUW36BFTztrA4zgKejNFqcqN6eAPkGxcIBU=
+			d/p4kY1zF+UnXBP0LZ7wEAc9NG/1HNEqMivdddc62Zo=
 			</data>
 		</dict>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
