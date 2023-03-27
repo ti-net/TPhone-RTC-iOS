@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AgoraRtcKit.framework/AgoraRtcKit</key>
 		<data>
-		YI5EGSm3RmmqoAnFP7d2wHoEgtY=
+		HvBFTGTEer6zSh7B43J9fYISvvU=
 		</data>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/AgoraRtmKit</key>
 		<data>
-		ZrcgziLH7Sd23MDHitJsmkyI/3A=
+		DlAbxo/Edz+OaJ/u6hmCy7aF3ko=
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/AgoraSoundTouch</key>
 		<data>
-		zAntwnIxJzAtQ5HiYLY8icidiG4=
+		L3aZr2TLgeu3zzdVHvu1NEBAmT0=
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Agorafdkaac</key>
 		<data>
-		xCQ3xR37+WJ3ckOP0No1MfO2Yhw=
+		MssYYJqEojOXWsVuQR9f0Hna1is=
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
 		<data>
@@ -60,17 +60,21 @@
 		<data>
 		3rivSCXp4tPX6G1yILBAH3prCnI=
 		</data>
+		<key>Headers/TPhoneRTC.h</key>
+		<data>
+		rTsDpbQV+kwmnuo9h3E2bLTcgfA=
+		</data>
 		<key>Headers/TPhoneRTCManager.h</key>
 		<data>
 		JkTVJsN791Y7YN5sST7BM3vnt7Q=
 		</data>
-		<key>Headers/TPhoneRTCSDK.h</key>
-		<data>
-		NhApvUaUZD9uBphMZE3nIECTAW8=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		/ucITt/VErsdD4f+137hLv8viQs=
+		Od2IHImSp+NxZwmQ5/ujdZ00VNQ=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		y2AdHeJsaMMj1qAt/te3EqBRqrU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -79,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YI5EGSm3RmmqoAnFP7d2wHoEgtY=
+			HvBFTGTEer6zSh7B43J9fYISvvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3XqBnzx2+bH5GrJJbk9fAKsnjcbLTuMaBnrhtavUV8=
+			ynCwqR4/Y3LmB1JTt5lbsp6wboC0zKX3hm3CAvMFYKg=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
@@ -112,11 +116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZrcgziLH7Sd23MDHitJsmkyI/3A=
+			DlAbxo/Edz+OaJ/u6hmCy7aF3ko=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7DCRoi+HIexQ+BTXpPpRdBN9Sl2SGXh29kyH9ZGh+E=
+			DuueOWwtkT5zEvUtnjIuh/Y371umGAD+MWGzgF62WOU=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
@@ -145,11 +149,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zAntwnIxJzAtQ5HiYLY8icidiG4=
+			L3aZr2TLgeu3zzdVHvu1NEBAmT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Uk5axryq9+NzrZA5vcg36oZ2USWC9JgEEAlTJ8Go5C0=
+			rnM7jX88Y+iigBq3Y9IFGAVITrbkzMEZkvebbEsVd/k=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
@@ -178,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xCQ3xR37+WJ3ckOP0No1MfO2Yhw=
+			MssYYJqEojOXWsVuQR9f0Hna1is=
 			</data>
 			<key>hash2</key>
 			<data>
-			o2k4Q9lc3fkTzb4LCfXZPYfsaruZDVJIm8wSd40uh+U=
+			yuYBKQvSEiNnQTnnqKQB8CqGFjY1T9X6VWvLP3dmmaY=
 			</data>
 		</dict>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
@@ -229,6 +233,17 @@
 			8T2zRpItBLPCpjC42Us2f9EjX8cJ4mECzFKA2I0Z6E4=
 			</data>
 		</dict>
+		<key>Headers/TPhoneRTC.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rTsDpbQV+kwmnuo9h3E2bLTcgfA=
+			</data>
+			<key>hash2</key>
+			<data>
+			c03TmVFtsVnurADk0R7uE0OcpQ89HnbtbzSu1vDJM2E=
+			</data>
+		</dict>
 		<key>Headers/TPhoneRTCManager.h</key>
 		<dict>
 			<key>hash</key>
@@ -240,15 +255,15 @@
 			vnh8LHRKtnDExbRhBnO7vNvhdc0rxj0jMBte/xvnk4g=
 			</data>
 		</dict>
-		<key>Headers/TPhoneRTCSDK.h</key>
+		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NhApvUaUZD9uBphMZE3nIECTAW8=
+			y2AdHeJsaMMj1qAt/te3EqBRqrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			clOO9md8ZN8RugGxcYV/nOOQjytenTY+L7c8CAVaysk=
+			he8WsQc8bZpf0cdkTIVsuPSO+UkADS8ouOBffUpGr1w=
 			</data>
 		</dict>
 	</dict>
