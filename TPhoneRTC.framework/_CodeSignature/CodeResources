@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AgoraRtcKit.framework/AgoraRtcKit</key>
 		<data>
-		kUpZ0yroTHoF0dEJcUpcFowWL7Q=
+		IogobTeIprSbIaUQdZeJ3IV7gEo=
 		</data>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/AgoraRtmKit</key>
 		<data>
-		vyAem0Gu94aW5tb4UYHIs+l1xvw=
+		NzwdMZ2NB5pNlqXWpxGqIlL5Zaw=
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/AgoraSoundTouch</key>
 		<data>
-		oyMv5b2cvKgqLZKb40Ip//Zei9I=
+		V1kk9/qWBCNbdXMiWY7zHuBmWn4=
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Agorafdkaac</key>
 		<data>
-		pigtMeJZJDAbGG6P96TJ/Xy+k6I=
+		yNeSuflve+iYctGvp6gaekurgOE=
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
-		WqUFOQBihXMtAbIcQaF66Au14c0=
+		7pkLgiQqV7mFRA3zKjIg5hX6VeU=
 		</data>
 		<key>Headers/TPhoneListener.h</key>
 		<data>
-		3rivSCXp4tPX6G1yILBAH3prCnI=
+		4ied7+V8IY0ph99O5R+Gurp5pt8=
 		</data>
 		<key>Headers/TPhoneRTC.h</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Headers/TPhoneRTCManager.h</key>
 		<data>
-		JkTVJsN791Y7YN5sST7BM3vnt7Q=
+		AnjjJkOY6zcQe+6lFHjWm7kAB48=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Od2IHImSp+NxZwmQ5/ujdZ00VNQ=
+		YQIOB+vKELC73LhEVi0RoRfbc5c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kUpZ0yroTHoF0dEJcUpcFowWL7Q=
+			IogobTeIprSbIaUQdZeJ3IV7gEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			q7g7wUdo3RbVrnCArC/YlEKt7o/MfErxS2+XgRvD+dM=
+			S7wKeyIYhjFi7NHxwHrFL3S09OPCqr9sG7HowgR8wvA=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
@@ -116,11 +116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vyAem0Gu94aW5tb4UYHIs+l1xvw=
+			NzwdMZ2NB5pNlqXWpxGqIlL5Zaw=
 			</data>
 			<key>hash2</key>
 			<data>
-			wJ/9XPoQDRSChwdMu0PaoqCADQeYTuqM4E0gNWnRacM=
+			x/4XTLGOYSO+0YkDcF5D+iqIigbZOJX+EDVJAqvrdlY=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
@@ -149,11 +149,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oyMv5b2cvKgqLZKb40Ip//Zei9I=
+			V1kk9/qWBCNbdXMiWY7zHuBmWn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dGdFQVjIPQKEqvMoxItPE/2KcsLq6MNyYdYPXo6nSho=
+			UmlXZZOpPGHAyy5g7xE/0g5uzi2VubiAbb8twgURzk8=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
@@ -182,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pigtMeJZJDAbGG6P96TJ/Xy+k6I=
+			yNeSuflve+iYctGvp6gaekurgOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			d/p4kY1zF+UnXBP0LZ7wEAc9NG/1HNEqMivdddc62Zo=
+			U0B2bjiNgAoLThFi7U4l0UupWunGdBBR/No4raQgMW8=
 			</data>
 		</dict>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
@@ -215,22 +215,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WqUFOQBihXMtAbIcQaF66Au14c0=
+			7pkLgiQqV7mFRA3zKjIg5hX6VeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zLUPEKpyBn8g5i68W4Uk67KfcvumIvqG0dRq6MT9b/g=
+			5jH+JNYrzotmXIZ7U3lmsxp3oKwH6iH88eE299byxOE=
 			</data>
 		</dict>
 		<key>Headers/TPhoneListener.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3rivSCXp4tPX6G1yILBAH3prCnI=
+			4ied7+V8IY0ph99O5R+Gurp5pt8=
 			</data>
 			<key>hash2</key>
 			<data>
-			8T2zRpItBLPCpjC42Us2f9EjX8cJ4mECzFKA2I0Z6E4=
+			Jo3O5f6nbykAhOCabj4kPObYlnEad91x08awIoxFJvk=
 			</data>
 		</dict>
 		<key>Headers/TPhoneRTC.h</key>
@@ -248,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JkTVJsN791Y7YN5sST7BM3vnt7Q=
+			AnjjJkOY6zcQe+6lFHjWm7kAB48=
 			</data>
 			<key>hash2</key>
 			<data>
-			vnh8LHRKtnDExbRhBnO7vNvhdc0rxj0jMBte/xvnk4g=
+			XiseLPdmDcYpWUQ/zK7oTfuw7oFnlV+WC+5wS6iWkvg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

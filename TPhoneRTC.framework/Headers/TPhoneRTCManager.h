@@ -35,13 +35,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 拨打电话
- * @param number 需要拨打的手机号
- * @param obClid 客户外显号码
- * @param requestUniqueId 通话的唯一标识 如果不传 则SDK中会自动生成
- * @param userField 自定义参数 ex: @{@"id":@"xxxxxxxx",@"workNum":@"xxxxxxx",@"depId":@"xxxxxx"}
+ * @param callModel 外呼参数
  */
--(void)call:(NSString *)number obClid:(nullable NSString *) obClid
-requestUniqueId:(nullable NSString*)requestUniqueId userField:(nullable NSDictionary *)userField;
+-(void)call:(TCallModel *)callModel;
 
 /**
  * 外呼事件监听 ， 必须在登录之后调用

@@ -70,7 +70,7 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 - (void)receiveStreamSample:(int)samples channels:(int)channels;
 
 /**
- * 拉去到的对方的数据流
+ * 拉取到的对方的数据流
  *
  * @param data 对方原始数据
  * @param size 数据大小
