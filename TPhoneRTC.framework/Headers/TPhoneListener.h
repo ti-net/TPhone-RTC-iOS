@@ -115,6 +115,17 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 */
 - (void)onRemoteInvitationCanceled:(nonnull NSDictionary *)fields;
 
+/**
+* 接收回呼失败
+*
+* @param fields 包含如下数据：
+*
+* customerNumber：主叫号码
+* requestUniqueId：通话唯一标识
+*
+*/
+- (void)onRemoteInvitationFailure:(nonnull NSDictionary *)fields;
+
 @end
 
 @protocol TLoginMessageListener <NSObject>
@@ -127,6 +138,11 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 
 @end
 
+@protocol TIncomingMessageListener <NSObject>
+
+- (void)onIncomingMessage:(NSString* _Nullable)message;
+
+@end
 
 
 

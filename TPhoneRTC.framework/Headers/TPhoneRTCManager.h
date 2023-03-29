@@ -46,6 +46,11 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setOnEventListener:(id<TOnEventListener>)listener;
 
 /**
+ 设置监听 需要在登录成功之后调用
+@param listener TIncomingMessageListener接口的实例
+*/
+- (void)setIncomingMessageListener:(id<TIncomingMessageListener>)listener;
+/**
  * 挂断电话
  */
 -(void)hangup;
