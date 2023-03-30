@@ -16,11 +16,11 @@ const static int ON_CALL_CANCELLED                              = 102;      // �
 const static int ON_CALL_REFUSED                                = 103;      // 呼叫被拒绝
 const static int ON_CALLING                                     = 104;      // 呼叫中
 const static int ON_CALLING_END                                 = 105;      // 外呼结束,同时返回结束原因，1 表示对方挂断，0 表示己方挂断
-const static int ERR_RTC_CALL_FAILED_PARAMS_INCORRECT           = 200;      // 外呼失败----参数不正确
-const static int ERR_RTC_CALL_FAILED_CALL_REPEAT                = 201;      // 外呼失败----重复呼叫
-const static int ERR_RTC_CALL_FAILED_REMOTE_OFFLINE             = 202;      // 通话过程中对端异常挂断
-const static int ERR_RTC_CALL_FAILED_NET_ERROR                  = 203;      // 外呼失败----网络异常
-const static int ERR_RTC_CALL_FAILED_RTM_ERROR                  = 204;      // 外呼失败----内部信令错误
+const static int ERR_RTC_CALL_FAILED_PARAMS_INCORRECT           = 400;      // 外呼失败----参数不正确
+const static int ERR_RTC_CALL_FAILED_CALL_REPEAT                = 401;      // 外呼失败----重复呼叫
+const static int ERR_RTC_CALL_FAILED_REMOTE_OFFLINE             = 402;      // 通话过程中对端异常挂断
+const static int ERR_RTC_CALL_FAILED_NET_ERROR                  = 403;      // 外呼失败----网络异常
+const static int ERR_RTC_CALL_FAILED_RTM_ERROR                  = 404;      // 外呼失败----内部信令错误
 
 #pragma mark - 通用 TFailureCallback 错误码
 

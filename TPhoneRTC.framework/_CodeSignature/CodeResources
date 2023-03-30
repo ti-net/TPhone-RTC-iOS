@@ -52,25 +52,13 @@
 		<data>
 		LAY6uUCioeO7GI5GAQ6mb33tHIw=
 		</data>
-		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
-		<data>
-		XFuYMmB7LAXgDOrAHFstpXkTseE=
-		</data>
-		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
-		<data>
-		TCcHjI82aaWTwpExTSAQS4cGsfY=
-		</data>
-		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		zNUqrIqOvMJ+wdl+Gvp8vJNk01w=
-		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
 		7pkLgiQqV7mFRA3zKjIg5hX6VeU=
 		</data>
 		<key>Headers/TPhoneListener.h</key>
 		<data>
-		R2phhYLfsZEhKTBjlvlJgsUjxUo=
+		jP8NoTRja9Rv9uP91xBW4DM4WQc=
 		</data>
 		<key>Headers/TPhoneRTC.h</key>
 		<data>
@@ -78,11 +66,11 @@
 		</data>
 		<key>Headers/TPhoneRTCManager.h</key>
 		<data>
-		EBs8WfUU0bODT9JMI4kL+7iLHTQ=
+		f/InIgpfxFhSypU86ttbkaOToW8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3tI3BFeiggEGBZFzQovLUngMygk=
+		+w6fFohft3a5eZEzXUCbeLH+Q9Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -223,39 +211,6 @@
 			eg5C9OC9wH/k++y70v+rlciK9i2r+Gkx1ybPRKNqqsA=
 			</data>
 		</dict>
-		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XFuYMmB7LAXgDOrAHFstpXkTseE=
-			</data>
-			<key>hash2</key>
-			<data>
-			CwsOc9Ca4gDS7xDVvNqNFqla6Bdg9AsWQQKY7yuB92w=
-			</data>
-		</dict>
-		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TCcHjI82aaWTwpExTSAQS4cGsfY=
-			</data>
-			<key>hash2</key>
-			<data>
-			BTFuDF3NcnQTdfXGBAQ9L8N2tiU5BMfTgpgqVxzFQoo=
-			</data>
-		</dict>
-		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zNUqrIqOvMJ+wdl+Gvp8vJNk01w=
-			</data>
-			<key>hash2</key>
-			<data>
-			Czoiyp6XLn/3Ov2i7imwzOOif1PudFlBjfLjWYqee/E=
-			</data>
-		</dict>
 		<key>Headers/TLoginModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -271,11 +226,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R2phhYLfsZEhKTBjlvlJgsUjxUo=
+			jP8NoTRja9Rv9uP91xBW4DM4WQc=
 			</data>
 			<key>hash2</key>
 			<data>
-			oOeqzq/HIGBlZwNPZDS/oRcDCF10xrIiEIcDLp5XfFI=
+			4TuxDWCVTkAMk27WcPYF7MUynYiH4Ms2tfhKs8SqRCQ=
 			</data>
 		</dict>
 		<key>Headers/TPhoneRTC.h</key>
@@ -293,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EBs8WfUU0bODT9JMI4kL+7iLHTQ=
+			f/InIgpfxFhSypU86ttbkaOToW8=
 			</data>
 			<key>hash2</key>
 			<data>
-			kdS3h4Nq4zHNCgYx7806jeie0FbITSKuNXzgL8/xgQI=
+			NI39FJJYmq15INivTszFxZ9I3EDK3PEgmywPVf60yaY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
