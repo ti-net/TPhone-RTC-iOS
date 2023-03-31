@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
-		7pkLgiQqV7mFRA3zKjIg5hX6VeU=
+		r62xFWqC/1qudhcMfk/l3GSkx4o=
 		</data>
 		<key>Headers/TPhoneListener.h</key>
 		<data>
-		jP8NoTRja9Rv9uP91xBW4DM4WQc=
+		XDuVExmtkN6oL+O93NwW1fbiPH8=
 		</data>
 		<key>Headers/TPhoneRTC.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+w6fFohft3a5eZEzXUCbeLH+Q9Q=
+		weJelBlt9lv0GJVsxbJrYEK++Vc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -215,22 +215,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7pkLgiQqV7mFRA3zKjIg5hX6VeU=
+			r62xFWqC/1qudhcMfk/l3GSkx4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			5jH+JNYrzotmXIZ7U3lmsxp3oKwH6iH88eE299byxOE=
+			bdW7hKqO4lozMVbV+VVx0Jh7DthhZMIDguAjBLIpwJ4=
 			</data>
 		</dict>
 		<key>Headers/TPhoneListener.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jP8NoTRja9Rv9uP91xBW4DM4WQc=
+			XDuVExmtkN6oL+O93NwW1fbiPH8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4TuxDWCVTkAMk27WcPYF7MUynYiH4Ms2tfhKs8SqRCQ=
+			zcqoNVwVyyxLd0UDfMYzhzW1yT3FKuDbUydw0yFEtcA=
 			</data>
 		</dict>
 		<key>Headers/TPhoneRTC.h</key>

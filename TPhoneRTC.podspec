@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "TPhoneRTC"
-  s.version      = "1.1.5"
+  s.version      = "1.1.6"
   s.summary      = "TPhoneRTC iOS实时语音呼叫SDK"
 
   s.description      = <<-DESC

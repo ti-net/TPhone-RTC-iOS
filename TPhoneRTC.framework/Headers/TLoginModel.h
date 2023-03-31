@@ -72,8 +72,8 @@ typedef NS_ENUM(NSInteger, TPhoneRtcScence)
 /// 主叫号码（若不传，则回呼到SDK）
 @property (nonatomic, copy, nullable) NSString *callerNumber;
 
-/// 自定义参数 ex:@[@{@"name":@"xxxx",@"value":@"xxxx",@"type":@1},@{@"name":@"xxxx",@"value":@"xxxx",@"type":@1}]
-@property (nonatomic, strong, nullable) NSArray *userField;
+/// 自定义参数 ex:@{@"name":@"xxxx",@"value":@"xxxx",@"type":@1}
+@property (nonatomic, strong, nullable) NSDictionary *userField;
 
 
 @end
