@@ -62,20 +62,20 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 本地音频静音
- * @param muted  发送本地音频流(NO:默认发送本地音频流 YES：发送本地静音音频流）
+ * @param muted  YES：（取消静音） 重新开启本地音频功能，即开启本地音频采集（默认）。 NO：（静音）关闭本地音频功能，即停止本地音频采集。
  */
 -(void)setMicrophoneMute:(BOOL)muted;
 
 /**
  * 检查扬声器是否开启
  * @return YES  扬声器已开启，语音会输出到扬声器
- * @return NO 扬声器未开启，语音会输出到听筒
+ * @return NO 扬声器未开启，语音会输出到非扬声器（听筒，耳机等）
  */
 -(BOOL)isSpeakerphoneEnabled;
 
 /**
  * 启用/关闭扬声器
- * @param enabled 是否将音频外放(YES：切换到外放  NO：切换到听筒)
+ * @param enabled 是否将音频外放(YES：开启。音频路由为扬声器。  NO：关闭。音频路由为听筒)
  */
 -(void)setEnableSpeakerphone:(BOOL)enabled;
 

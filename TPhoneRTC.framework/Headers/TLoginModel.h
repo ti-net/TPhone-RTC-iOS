@@ -14,8 +14,8 @@ static NSString *TPhoneLoginType_CrmIdAndPwd    = @"crmIdAndPwd"; // 员工和�
 static NSString *TPhoneLoginType_CnoAndToken    = @"conAndToken"; // 坐席编号和企业token登录
 
 // 平台类型
-static NSString *TPhonePlatformType_CT    = @"platformCTI"; // CT平台
-static NSString *TPhonePlatformType_CL    = @"platformClink"; // CL平台
+static NSString *TPhonePlatformType_CT    = @"CT"; // CT平台
+static NSString *TPhonePlatformType_CL    = @"CL"; // CL平台
 
 /// 呼叫场景
 typedef NS_ENUM(NSInteger, TPhoneRtcScence)
@@ -72,7 +72,7 @@ typedef NS_ENUM(NSInteger, TPhoneRtcScence)
 /// 主叫号码（若不传，则回呼到SDK）
 @property (nonatomic, copy, nullable) NSString *callerNumber;
 
-/// 自定义参数 ex:@{@"name":@"xxxx",@"value":@"xxxx",@"type":@1}
+/// 自定义参数 ex:@{@"key":@"value", @"key":@"value"}
 @property (nonatomic, strong, nullable) NSDictionary *userField;
 
 

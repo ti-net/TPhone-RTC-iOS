@@ -36,9 +36,9 @@ const static int ErrorLogin                                     = 5006;     // �
 typedef NS_ENUM(NSInteger, TPhoneRtcNetwotkQuality)
 {
     TPhoneRtcNetwotkQuality_Unknown,      // 网络质量未知
-    TPhoneRtcNetwotkQuality_Good ,      // 网络质量较好
-    TPhoneRtcNetwotkQuality_General ,    // 网络质量一般
-    TPhoneRtcNetwotkQuality_Bad ,    // 网络质量较差
+    TPhoneRtcNetwotkQuality_Good ,        // 网络质量较好
+    TPhoneRtcNetwotkQuality_General ,     // 网络质量一般
+    TPhoneRtcNetwotkQuality_Bad ,         // 网络质量较差
 };
 
 typedef void (^TSuccessCallback)(NSString * _Nullable data);
