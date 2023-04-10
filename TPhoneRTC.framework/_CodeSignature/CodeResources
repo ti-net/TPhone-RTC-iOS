@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AgoraRtcKit.framework/AgoraRtcKit</key>
 		<data>
-		UId9jGwkK1ApSFG97NwScYDv1Zg=
+		gXn8bWup7mAu+Mz2UoLd8+ntHA8=
 		</data>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/AgoraRtmKit</key>
 		<data>
-		IMgHLTqa7GJnl5WK0J1mLKmD6iI=
+		0RExAEL6p1+cVAXMdQ0MNk3z5UY=
 		</data>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/AgoraSoundTouch</key>
 		<data>
-		f40WI21V6GbN0q8lgQoLSgttRlc=
+		KV3v6KFnoykA+b8sA6Hft4NAa44=
 		</data>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Agorafdkaac</key>
 		<data>
-		9x4GM0nLUxJYh+k38nJINTYOCl4=
+		yIopviZ3iIxdRWVpBohX2gbSKUY=
 		</data>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
 		<data>
@@ -51,6 +51,18 @@
 		<key>Frameworks/Agorafdkaac.framework/_CodeSignature/CodeResources</key>
 		<data>
 		LAY6uUCioeO7GI5GAQ6mb33tHIw=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
+		<data>
+		ITPazI9aCUZ1kRr6XoJn2fqyW0A=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
+		<data>
+		8oG4UP1mKcnyWKuCnPVYTw0Byfo=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
+		<data>
+		SXOXwNRKuzAPfC/5A8lcAQR0424=
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
@@ -70,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qVlJKMChoSuxNhEdeaE3NHS+hNU=
+		wWf4rzS6c8fPfYKWN1OE2NpSu60=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UId9jGwkK1ApSFG97NwScYDv1Zg=
+			gXn8bWup7mAu+Mz2UoLd8+ntHA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			B392TtBCOK7q2OqlDHm6guqsO7W/p57HQ3lpjHFGgtI=
+			c3kT04yQLjLsBfPUrdcDWS5jeB0MnoT1c96T90wK1BE=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtcKit.framework/Info.plist</key>
@@ -116,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IMgHLTqa7GJnl5WK0J1mLKmD6iI=
+			0RExAEL6p1+cVAXMdQ0MNk3z5UY=
 			</data>
 			<key>hash2</key>
 			<data>
-			VSQPD4pw5IsdmtND3bYfVKWhd84Uy0164IpR0vigs7Q=
+			MXhNq8HFAMNI3/elwpv+ivCGuXyFMCVJoRk3uxlvtfQ=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraRtmKit.framework/Info.plist</key>
@@ -149,11 +161,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f40WI21V6GbN0q8lgQoLSgttRlc=
+			KV3v6KFnoykA+b8sA6Hft4NAa44=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtF9A+Fn2Pu+1yxUKW2svARwsclGg4+FwLc6iwU2Yqc=
+			y26sygSood+5Pw6htmQ4KiDqZ7XQbeYhxV8QFz2aSuQ=
 			</data>
 		</dict>
 		<key>Frameworks/AgoraSoundTouch.framework/Info.plist</key>
@@ -182,11 +194,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9x4GM0nLUxJYh+k38nJINTYOCl4=
+			yIopviZ3iIxdRWVpBohX2gbSKUY=
 			</data>
 			<key>hash2</key>
 			<data>
-			b93SfYHvrVqlE6rM4QoA3IxwN54bKvbL2G9GxPVHmF4=
+			SfbFTYMKBeXEvfMkLHiK41DTyKlzMUwroX425HQL+nI=
 			</data>
 		</dict>
 		<key>Frameworks/Agorafdkaac.framework/Info.plist</key>
@@ -209,6 +221,39 @@
 			<key>hash2</key>
 			<data>
 			eg5C9OC9wH/k++y70v+rlciK9i2r+Gkx1ybPRKNqqsA=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ITPazI9aCUZ1kRr6XoJn2fqyW0A=
+			</data>
+			<key>hash2</key>
+			<data>
+			etN4/4DGGmzeQkBanSqx4WTeffMw+fJT1ieQXWJIcwk=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8oG4UP1mKcnyWKuCnPVYTw0Byfo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oc431dmzmCbAZ24UTSixApUj/2y7kTMIXEwinpXUzkw=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SXOXwNRKuzAPfC/5A8lcAQR0424=
+			</data>
+			<key>hash2</key>
+			<data>
+			VeCT9EmUEmyliZepQfshGsFhHmaRMEO79lPMJZeEeLU=
 			</data>
 		</dict>
 		<key>Headers/TLoginModel.h</key>
