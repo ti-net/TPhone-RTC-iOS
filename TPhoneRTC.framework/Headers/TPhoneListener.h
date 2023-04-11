@@ -15,7 +15,7 @@ const static int ON_RINGING                                     = 101;      // �
 const static int ON_CALL_CANCELLED                              = 102;      // 外呼已取消
 const static int ON_CALL_REFUSED                                = 103;      // 呼叫被拒绝
 const static int ON_CALLING                                     = 104;      // 呼叫中
-const static int ON_CALLING_END                                 = 105;      // 外呼结束,同时返回结束原因，1 表示对方挂断，0 表示己方挂断
+const static int ON_CALLING_END                                 = 105;      // 通话结束,同时返回结束原因，1 表示对方挂断，0 表示己方挂断
 
 const static int ERR_RTC_CALL_FAILED_PARAMS_INCORRECT           = 400;      // 外呼失败----参数不正确
 const static int ERR_RTC_CALL_FAILED_CALL_REPEAT                = 401;      // 外呼失败----重复呼叫
