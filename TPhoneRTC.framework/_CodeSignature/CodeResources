@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
-		<data>
-		XzxrYeaRtIe6o83ptPStLHrmO6Q=
-		</data>
-		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
-		<data>
-		W6B/FiehU8FRFtOcuLzp7486vrs=
-		</data>
-		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		d+/6mQNz0LYijJ9EC56JSt2tX1Y=
-		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
 		l4fbTysvbhnAZn2F0VAF5kNkgM0=
@@ -34,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LhaXzPOel9mZjuUQxgBnFGX6RO8=
+		7S2L7t4+KIy/eB/XVhaVulIrsGk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,39 +31,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XzxrYeaRtIe6o83ptPStLHrmO6Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			hCp73Tlc+pMORZxYo0HSBSzysJZH/K/tp2+1xG6cxGk=
-			</data>
-		</dict>
-		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W6B/FiehU8FRFtOcuLzp7486vrs=
-			</data>
-			<key>hash2</key>
-			<data>
-			eUA5yJaqPDhTrZ/bf/+CD6/pqbhgCdIQlNWOddRYqcU=
-			</data>
-		</dict>
-		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d+/6mQNz0LYijJ9EC56JSt2tX1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			sBiVb5Hq8t77TaCEpHUbi0MSTnpZwK5npG1LgniqDF8=
-			</data>
-		</dict>
 		<key>Headers/TLoginModel.h</key>
 		<dict>
 			<key>hash</key>
