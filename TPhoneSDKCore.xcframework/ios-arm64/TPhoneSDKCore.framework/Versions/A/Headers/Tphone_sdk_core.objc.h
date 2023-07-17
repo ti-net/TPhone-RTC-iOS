@@ -19,6 +19,11 @@
 
 @end
 
+/**
+ * 坐席挂机接口
+ */
+FOUNDATION_EXPORT void Tphone_sdk_coreAgentUnlink(id<Tphone_sdk_core_callbackTBaseCallback> _Nullable callback);
+
 FOUNDATION_EXPORT void Tphone_sdk_coreCall(NSString* _Nullable phoneNumber, NSString* _Nullable obClid, NSString* _Nullable requestUniqueId, NSString* _Nullable userField);
 
 FOUNDATION_EXPORT void Tphone_sdk_coreChangePwd(NSString* _Nullable oldPassword, NSString* _Nullable newPassword, id<Tphone_sdk_core_callbackTBaseCallback> _Nullable callback);
