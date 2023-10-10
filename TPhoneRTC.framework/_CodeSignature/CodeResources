@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		aoUL28Q54NGRx5LGqG6D6c8ochI=
-		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
 		l4fbTysvbhnAZn2F0VAF5kNkgM0=
@@ -26,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IFgPCQ5jJl3dWC8ahQElqeZOIqA=
+		dyfKCSUJq3P2ZPLI5oQmRkygQKw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
