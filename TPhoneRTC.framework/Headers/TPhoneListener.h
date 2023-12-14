@@ -130,7 +130,7 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 /**
  * 当前 userId 在其他设备登录，此时引擎已销毁
  */
-- (void)onRemoteLogin;
+//- (void)onRemoteLogin;
 
 
 @end
