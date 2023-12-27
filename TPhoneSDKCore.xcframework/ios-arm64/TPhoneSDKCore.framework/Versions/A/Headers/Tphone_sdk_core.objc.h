@@ -45,11 +45,6 @@ FOUNDATION_EXPORT void Tphone_sdk_coreLogoutTiPhone(id<Tphone_sdk_core_callbackT
 
 FOUNDATION_EXPORT void Tphone_sdk_corePreviewOutCall(NSString* _Nullable phoneNumber, NSString* _Nullable obClid, id<Tphone_sdk_core_callbackTBaseCallback> _Nullable callback);
 
-/**
- * 原生判断无网或切网条件，之后调用此接口，目的是及时将go中的ws重置
- */
-FOUNDATION_EXPORT void Tphone_sdk_coreResetWebSocket(void);
-
 FOUNDATION_EXPORT void Tphone_sdk_coreRtcAuth(NSString* _Nullable loginOption, id<Tphone_sdk_core_callbackTBaseCallback> _Nullable callback);
 
 FOUNDATION_EXPORT void Tphone_sdk_coreRtcLogin(NSString* _Nullable loginOption, id<Tphone_sdk_core_callbackTBaseCallback> _Nullable callback, id<Tphone_sdk_core_callbackTLoginMessageListener> _Nullable loginCb);

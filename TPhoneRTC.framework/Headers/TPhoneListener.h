@@ -31,6 +31,7 @@ const static int ErrorNotInit                                   = 5003;     // �
 const static int ErrorInit                                      = 5004;     // 初始化错误
 const static int ErrorAuth                                      = 5005;     // 鉴权错误
 const static int ErrorLogin                                     = 5006;     // 上线错误
+const static int ErrNetworkTimeOut                              = 5007;     // 网络请求超时
 
 /// 网络状态
 typedef NS_ENUM(NSInteger, TPhoneRtcNetwotkQuality)
