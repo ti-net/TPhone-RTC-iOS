@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/TPhoneListener.h</key>
 		<data>
-		NrVOcZXtV8EtpGYFbuHarlFYrk4=
+		38XeESfhGptqDNdRH0i9kvCT2fc=
 		</data>
 		<key>Headers/TPhoneRTC.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Usx0bg0+hJGYZcNXyGftyp7FnW8=
+		APIaiCKLgGzg7Cvt24TbjtNV700=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,11 +46,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NrVOcZXtV8EtpGYFbuHarlFYrk4=
+			38XeESfhGptqDNdRH0i9kvCT2fc=
 			</data>
 			<key>hash2</key>
 			<data>
-			RYKWPdsgubhiLS7zdC8ej7JYcgYXMp3bMKPsKPRLsLI=
+			4U8owzzbVGLACwwsQ08xRDVu6EKiPFyJvW8v7/2WK8c=
 			</data>
 		</dict>
 		<key>Headers/TPhoneRTC.h</key>

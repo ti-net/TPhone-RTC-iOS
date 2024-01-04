@@ -47,6 +47,8 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 
 @protocol TOnEventListener <NSObject>
 
+@optional // 可选实现
+
 /**
 * 错误回调
 *
@@ -133,10 +135,17 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
  */
 //- (void)onRemoteLogin;
 
+/**
+ * 本地监测无发送语音流时间间隔5秒时回调
+ */
+- (void)onLocalNoVoiceStreamSent;
+
 
 @end
 
 @protocol TLoginMessageListener <NSObject>
+
+@optional // 可选实现
 
 - (void)onLoginMessageError:(int32_t)errCode errMsg:(nullable NSString *)errMsg;
 
@@ -147,6 +156,8 @@ typedef void (^TFailureCallback)(NSInteger code, NSString * _Nullable msg);
 @end
 
 @protocol TIncomingMessageListener <NSObject>
+
+@optional // 可选实现
 
 - (void)onIncomingMessage:(NSString* _Nullable)message;
 
