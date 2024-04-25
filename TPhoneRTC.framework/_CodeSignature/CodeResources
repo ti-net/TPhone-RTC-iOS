@@ -4,13 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
+		<data>
+		7FT8Ykiex6pky7AC9lbI2dHXSNk=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		jcdGmGZSlolDYM3VmDsVqL2qKL0=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
+		<data>
+		w7/mpFWArzlRTuwLzSiQMulBXAg=
+		</data>
+		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
+		<data>
+		E8s5sXSrSAXZB2eiqi0jtA5R4rY=
+		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
 		rMzZf2vRHN9UxLxjaPmerE5u02E=
 		</data>
 		<key>Headers/TPhoneListener.h</key>
 		<data>
-		38XeESfhGptqDNdRH0i9kvCT2fc=
+		VI7NeyH5nSDJWSX48EChxT0k5Ck=
 		</data>
 		<key>Headers/TPhoneRTC.h</key>
 		<data>
@@ -18,19 +34,67 @@
 		</data>
 		<key>Headers/TPhoneRTCManager.h</key>
 		<data>
-		QUXFfgAxs7UO0pnKGXHJ3gnsW4M=
+		yK11rdPA2il2BtIISI3DPwJFPM0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		451MUR3Dwqo2SCOBkK5L5CHfwM0=
+		QziqCwOfO4S4+b5dsLAjaZ85KT4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		L3mVcg1Sro9uGrHNae05RWOOiyQ=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		iWQOClolfyiriz0wDEY9obIqVYk=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7FT8Ykiex6pky7AC9lbI2dHXSNk=
+			</data>
+			<key>hash2</key>
+			<data>
+			BCPvAsj6vzHgkVok8o/R08WcWlaIMhxJtHG1Qx962cE=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jcdGmGZSlolDYM3VmDsVqL2qKL0=
+			</data>
+			<key>hash2</key>
+			<data>
+			On8nM2Y7NYYijz6gde+QYQb8pFwFTlF1GzDY4LY9U10=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w7/mpFWArzlRTuwLzSiQMulBXAg=
+			</data>
+			<key>hash2</key>
+			<data>
+			wo6OfnOD+4AZ2rowxgDQ+BFCMfzsTbnbEOs0F11Dx+E=
+			</data>
+		</dict>
+		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E8s5sXSrSAXZB2eiqi0jtA5R4rY=
+			</data>
+			<key>hash2</key>
+			<data>
+			pUQzRL0xYe5VKeQ8yL/XB5g95Y7veityxgyLSd2eFLQ=
+			</data>
+		</dict>
 		<key>Headers/TLoginModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -46,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			38XeESfhGptqDNdRH0i9kvCT2fc=
+			VI7NeyH5nSDJWSX48EChxT0k5Ck=
 			</data>
 			<key>hash2</key>
 			<data>
-			4U8owzzbVGLACwwsQ08xRDVu6EKiPFyJvW8v7/2WK8c=
+			rZolK8kQT8b76PLZn9u6iPwN5OekzXDjGz43t4rA/08=
 			</data>
 		</dict>
 		<key>Headers/TPhoneRTC.h</key>
@@ -68,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QUXFfgAxs7UO0pnKGXHJ3gnsW4M=
+			yK11rdPA2il2BtIISI3DPwJFPM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FcVpV/8VsV6x+o/jGOEq/JcOxL2xDR/YlbxSQPm+6r8=
+			GsLLy4Grge4OiD6/wLKC6WCEKacjjyNCBQO+LTQ9dhk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -84,6 +148,17 @@
 			<key>hash2</key>
 			<data>
 			SXFvG53hQDTOlFw9bCIJtc1H4+IzUINz/c3dfyOVo5w=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iWQOClolfyiriz0wDEY9obIqVYk=
+			</data>
+			<key>hash2</key>
+			<data>
+			T2MQRV/qKIkj4DfhzcHrsTPq/fuBzO2d58RJ0Ws7yeY=
 			</data>
 		</dict>
 	</dict>

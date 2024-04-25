@@ -15,6 +15,8 @@
 @class Tphone_sdk_core_callbackTBaseCallback;
 @protocol Tphone_sdk_core_callbackTIncomingMessageListener;
 @class Tphone_sdk_core_callbackTIncomingMessageListener;
+@protocol Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener;
+@class Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener;
 @protocol Tphone_sdk_core_callbackTLoginMessageListener;
 @class Tphone_sdk_core_callbackTLoginMessageListener;
 @protocol Tphone_sdk_core_callbackTOnEventListener;
@@ -27,6 +29,11 @@
 
 @protocol Tphone_sdk_core_callbackTIncomingMessageListener <NSObject>
 - (void)onMessage:(NSString* _Nullable)message;
+- (void)onUpdateSessionId:(NSString* _Nullable)session;
+@end
+
+@protocol Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener <NSObject>
+- (void)onUpdateUrl:(NSString* _Nullable)message;
 @end
 
 @protocol Tphone_sdk_core_callbackTLoginMessageListener <NSObject>
@@ -43,6 +50,8 @@
 @class Tphone_sdk_core_callbackTBaseCallback;
 
 @class Tphone_sdk_core_callbackTIncomingMessageListener;
+
+@class Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener;
 
 @class Tphone_sdk_core_callbackTLoginMessageListener;
 
@@ -63,6 +72,15 @@
 
 - (nonnull instancetype)initWithRef:(_Nonnull id)ref;
 - (void)onMessage:(NSString* _Nullable)message;
+- (void)onUpdateSessionId:(NSString* _Nullable)session;
+@end
+
+@interface Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener : NSObject <goSeqRefInterface, Tphone_sdk_core_callbackTIncomingUpdateSockJsUrlListener> {
+}
+@property(strong, readonly) _Nonnull id _ref;
+
+- (nonnull instancetype)initWithRef:(_Nonnull id)ref;
+- (void)onUpdateUrl:(NSString* _Nullable)message;
 @end
 
 @interface Tphone_sdk_core_callbackTLoginMessageListener : NSObject <goSeqRefInterface, Tphone_sdk_core_callbackTLoginMessageListener> {

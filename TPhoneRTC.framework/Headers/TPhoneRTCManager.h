@@ -23,7 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)initSDK:(nullable NSString *)apiUrl isDebug:(BOOL)debug;
 
 /**
- * 座席上线接口
+ * 座席上线方法
  * @param loginModel 登录参数模型
  * @param webSocketDelegate 监听登录事件 CL专用
  * @param successBlock  登录成功的回调
@@ -41,15 +41,16 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 外呼事件监听 ， 必须在登录之后调用
- * @param listener TiPhoneMessageListener接口的实例
+ * @param listener TiPhoneMessageListener方法的实例
  */
 -(void)setOnEventListener:(id<TOnEventListener>)listener;
 
 /**
  设置事件监听 需要在登录成功之后调用
-@param listener TIncomingMessageListener接口的实例
+@param listener TIncomingMessageListener方法的实例
 */
 - (void)setIncomingMessageListener:(id<TIncomingMessageListener>)listener;
+
 /**
  * 挂断电话
  */
@@ -62,7 +63,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 本地音频静音
- * @param muted  YES：（取消静音） 重新开启本地音频功能，即开启本地音频采集（默认）。 NO：（静音）关闭本地音频功能，即停止本地音频采集。
+ * @param muted  NO：（取消静音） 重新开启本地音频功能（默认）。 YES：（静音）关闭本地音频功能。
  */
 -(void)setMicrophoneMute:(BOOL)muted;
 
