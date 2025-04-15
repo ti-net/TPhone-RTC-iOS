@@ -4,21 +4,53 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Resources/Info.plist</key>
+		<data>
+		OVZVZQrOaXHbEzvcyojZ8nESm4A=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/Resources/Info.plist</key>
+		<data>
+		OVZVZQrOaXHbEzvcyojZ8nESm4A=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/TPhoneSDKCore</key>
+		<data>
+		3wezLJwCDOV9c6X96JqAbFTyXOo=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeDirectory</key>
+		<data>
+		C7zC6hs+8OsxDQNrUu5cHX8foTo=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements</key>
+		<data>
+		OiGRakiuLJYvWQyQ31sBlwXKpU0=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		7Wu1FS3lT3v4ALQd5gFDfsoCEu4=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		J0aIUC6eQ6ZOtXicC9sJ2hdLuTI=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeSignature</key>
+		<data>
+		7dbnOHr23liEDQaS7gOqXoat5jc=
+		</data>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/Current/Resources/Info.plist</key>
+		<data>
+		OVZVZQrOaXHbEzvcyojZ8nESm4A=
+		</data>
 		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
 		<data>
-		7FT8Ykiex6pky7AC9lbI2dHXSNk=
-		</data>
-		<key>Frameworks/TiCloudRTC.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		jcdGmGZSlolDYM3VmDsVqL2qKL0=
+		TpKrRg16NJPhu9bJlU+ZQlgJrPA=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<data>
-		w7/mpFWArzlRTuwLzSiQMulBXAg=
+		wMv/n8V1q8scxjIIqJoyj9S0TCk=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		E8s5sXSrSAXZB2eiqi0jtA5R4rY=
+		+AqW45eF3wsLDdVRNH7C7+/mZTI=
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
@@ -38,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QziqCwOfO4S4+b5dsLAjaZ85KT4=
+		7BruH8jA3i9ZCmLNGAFHh7F0Sj8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,48 +83,141 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OVZVZQrOaXHbEzvcyojZ8nESm4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9rzLEyhZ40dSG8yvDLgaXIvRBiFSiCIKHU/Pvt+Hrg=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/TPhoneSDKCore</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/TPhoneSDKCore</string>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OVZVZQrOaXHbEzvcyojZ8nESm4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9rzLEyhZ40dSG8yvDLgaXIvRBiFSiCIKHU/Pvt+Hrg=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/TPhoneSDKCore</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3wezLJwCDOV9c6X96JqAbFTyXOo=
+			</data>
+			<key>hash2</key>
+			<data>
+			6IjXJBfC3p4UtYijtDcvUaKRCfFMsO/NL87sQ8wPDzs=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C7zC6hs+8OsxDQNrUu5cHX8foTo=
+			</data>
+			<key>hash2</key>
+			<data>
+			KTDRx/tSJD8Wuj5vYAlnBriS+m9Cmj+gxA8sAC5D9lY=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OiGRakiuLJYvWQyQ31sBlwXKpU0=
+			</data>
+			<key>hash2</key>
+			<data>
+			f1pfeuNTDNEJ/yTsuN57gQklyj+RhZCCN0Fx++xHy5E=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7Wu1FS3lT3v4ALQd5gFDfsoCEu4=
+			</data>
+			<key>hash2</key>
+			<data>
+			L9TH9caGydyifO5GGXhzJW/AwNfVAwwlEGrv5O+BKP4=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J0aIUC6eQ6ZOtXicC9sJ2hdLuTI=
+			</data>
+			<key>hash2</key>
+			<data>
+			HN6BrgLTozGjiJhcy/dSUzZKHlYzXgyupSbWRlxos+w=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7dbnOHr23liEDQaS7gOqXoat5jc=
+			</data>
+			<key>hash2</key>
+			<data>
+			u/6rehvbe3zUNYqeTJJIrgltxtNo28RVibZ5xGj+XSs=
+			</data>
+		</dict>
+		<key>Frameworks/TPhoneSDKCore.framework/Versions/Current/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OVZVZQrOaXHbEzvcyojZ8nESm4A=
+			</data>
+			<key>hash2</key>
+			<data>
+			I9rzLEyhZ40dSG8yvDLgaXIvRBiFSiCIKHU/Pvt+Hrg=
+			</data>
+		</dict>
 		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7FT8Ykiex6pky7AC9lbI2dHXSNk=
+			TpKrRg16NJPhu9bJlU+ZQlgJrPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			BCPvAsj6vzHgkVok8o/R08WcWlaIMhxJtHG1Qx962cE=
-			</data>
-		</dict>
-		<key>Frameworks/TiCloudRTC.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jcdGmGZSlolDYM3VmDsVqL2qKL0=
-			</data>
-			<key>hash2</key>
-			<data>
-			On8nM2Y7NYYijz6gde+QYQb8pFwFTlF1GzDY4LY9U10=
+			Q4ged9kQrL7iFzPt+4rByZWF+xedWdAq98aFz6w9vn0=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w7/mpFWArzlRTuwLzSiQMulBXAg=
+			wMv/n8V1q8scxjIIqJoyj9S0TCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wo6OfnOD+4AZ2rowxgDQ+BFCMfzsTbnbEOs0F11Dx+E=
+			9/73UcPyQ/vG5XRctfobDyhMo+5BFCTZ6jC3HFUcquQ=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E8s5sXSrSAXZB2eiqi0jtA5R4rY=
+			+AqW45eF3wsLDdVRNH7C7+/mZTI=
 			</data>
 			<key>hash2</key>
 			<data>
-			pUQzRL0xYe5VKeQ8yL/XB5g95Y7veityxgyLSd2eFLQ=
+			bGE01t1mzbUIvmuJbFoDEAnu278GMdLDx205a5Pf36k=
 			</data>
 		</dict>
 		<key>Headers/TLoginModel.h</key>
