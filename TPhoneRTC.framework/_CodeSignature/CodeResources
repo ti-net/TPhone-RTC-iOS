@@ -14,11 +14,11 @@
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/TPhoneSDKCore</key>
 		<data>
-		3wezLJwCDOV9c6X96JqAbFTyXOo=
+		YUkT6if4DauUxW5MzULWqg60VcQ=
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeDirectory</key>
 		<data>
-		C7zC6hs+8OsxDQNrUu5cHX8foTo=
+		MddVJZ6yQE5T8xiKChWH8EIkrOE=
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -26,15 +26,15 @@
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		7Wu1FS3lT3v4ALQd5gFDfsoCEu4=
+		Es9OHSDguWHLqSEzzo2AtE9qO3E=
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		J0aIUC6eQ6ZOtXicC9sJ2hdLuTI=
+		pzSbYuwjo98ErlXccxwl2lMsCJE=
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeSignature</key>
 		<data>
-		7dbnOHr23liEDQaS7gOqXoat5jc=
+		AQpt76uOKrv1FnoSXfu1kGnSCtM=
 		</data>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/Current/Resources/Info.plist</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
 		<data>
-		TpKrRg16NJPhu9bJlU+ZQlgJrPA=
+		POGJeHaiFgQR5cQXydsgEcKHYd4=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<data>
-		wMv/n8V1q8scxjIIqJoyj9S0TCk=
+		CxTjyOcQGSO9piGSJVh8PlAmSC0=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+AqW45eF3wsLDdVRNH7C7+/mZTI=
+		zC1uiuxeJBnZ41ECprWhgzhSivM=
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7BruH8jA3i9ZCmLNGAFHh7F0Sj8=
+		X9qry16ThyoJkTpgZ4XHFQ8hI+E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,22 +114,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3wezLJwCDOV9c6X96JqAbFTyXOo=
+			YUkT6if4DauUxW5MzULWqg60VcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6IjXJBfC3p4UtYijtDcvUaKRCfFMsO/NL87sQ8wPDzs=
+			VZZp/JoLdJERYmYNXZPEEsKbMScAZBqx/W3dd3qNNtk=
 			</data>
 		</dict>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C7zC6hs+8OsxDQNrUu5cHX8foTo=
+			MddVJZ6yQE5T8xiKChWH8EIkrOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KTDRx/tSJD8Wuj5vYAlnBriS+m9Cmj+gxA8sAC5D9lY=
+			QR3aqu7rxrp9gUXIjZX1sBeLbwbij5UVMk7HHTD9Ba8=
 			</data>
 		</dict>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeRequirements</key>
@@ -147,33 +147,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Wu1FS3lT3v4ALQd5gFDfsoCEu4=
+			Es9OHSDguWHLqSEzzo2AtE9qO3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			L9TH9caGydyifO5GGXhzJW/AwNfVAwwlEGrv5O+BKP4=
+			hx+HykgEL7VEdzrKuT6WCJk1I+l3kx8ywEw4rAstE4I=
 			</data>
 		</dict>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J0aIUC6eQ6ZOtXicC9sJ2hdLuTI=
+			pzSbYuwjo98ErlXccxwl2lMsCJE=
 			</data>
 			<key>hash2</key>
 			<data>
-			HN6BrgLTozGjiJhcy/dSUzZKHlYzXgyupSbWRlxos+w=
+			LpjOmaExvmMFCBDgZxSXPSUwitpEsVWcF19BPIwE96Y=
 			</data>
 		</dict>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/A/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7dbnOHr23liEDQaS7gOqXoat5jc=
+			AQpt76uOKrv1FnoSXfu1kGnSCtM=
 			</data>
 			<key>hash2</key>
 			<data>
-			u/6rehvbe3zUNYqeTJJIrgltxtNo28RVibZ5xGj+XSs=
+			P9uYAfxEQN5EeCo7Pk6y1laVhET75fF3n/2ihTOzjDM=
 			</data>
 		</dict>
 		<key>Frameworks/TPhoneSDKCore.framework/Versions/Current/Resources/Info.plist</key>
@@ -191,33 +191,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TpKrRg16NJPhu9bJlU+ZQlgJrPA=
+			POGJeHaiFgQR5cQXydsgEcKHYd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q4ged9kQrL7iFzPt+4rByZWF+xedWdAq98aFz6w9vn0=
+			FsikL+ZD31Gg/b3yQ6XtzkXtSwQX+cDHFabNCmZDEHk=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wMv/n8V1q8scxjIIqJoyj9S0TCk=
+			CxTjyOcQGSO9piGSJVh8PlAmSC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			9/73UcPyQ/vG5XRctfobDyhMo+5BFCTZ6jC3HFUcquQ=
+			mOtVwR/mArer1huRFgCo7s/XYT7mL6GduYAo4hFs+wg=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+AqW45eF3wsLDdVRNH7C7+/mZTI=
+			zC1uiuxeJBnZ41ECprWhgzhSivM=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGE01t1mzbUIvmuJbFoDEAnu278GMdLDx205a5Pf36k=
+			iTrpL1myMHvbHasO2DjWsIDNjYUiDuywtlR8TdLTagg=
 			</data>
 		</dict>
 		<key>Headers/TLoginModel.h</key>
