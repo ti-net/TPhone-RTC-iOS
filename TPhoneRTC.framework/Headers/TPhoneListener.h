@@ -33,6 +33,7 @@ const static int ErrorInit                                      = 5004;     // �
 const static int ErrorAuth                                      = 5005;     // 鉴权错误
 const static int ErrorLogin                                     = 5006;     // 上线错误
 const static int ErrNetworkTimeOut                              = 5007;     // 网络请求超时
+const static int ErrorLifecycleBusy                             = 5008;     // 生命周期忙，稍后重试
 
 /// 网络状态
 typedef NS_ENUM(NSInteger, TPhoneRtcNetwotkQuality)

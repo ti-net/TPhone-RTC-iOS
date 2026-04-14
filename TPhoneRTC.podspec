@@ -21,13 +21,13 @@ TODO: Add long description of the pod here.
   s.author           = { 'gyb1314' => 'gyb_1314@126.com' }
   s.source           = { :git => 'https://github.com/ti-net/TPhone-RTC-iOS.git', :tag => s.version.to_s }
 
- # s.ios.deployment_target = '9.0'
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "12.0"
 
-  s.vendored_frameworks  = "TPhoneRTC.framework","TPhoneSDKCore.xcframework"
+  s.vendored_frameworks  = "TPhoneRTC.framework"
   s.pod_target_xcconfig = {'VALID_ARCHS'=>'arm64 x86_64 armv7','EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   s.dependency 'TiCloudRTC'
+  s.dependency 'SocketRocket', '~> 0.7.1'
 
 end
