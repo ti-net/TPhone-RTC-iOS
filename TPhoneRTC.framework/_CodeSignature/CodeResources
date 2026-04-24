@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/TiCloudRTC.framework/Info.plist</key>
 		<data>
-		nCbJWaZJ84X4/eIpyRaxrpqPa1M=
+		H8Pj8Gknp0u2cJiwGYctLOH1Nao=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<data>
-		K92oJogYI4Zzs6ISLo4EywZGIiE=
+		JZ2pN7WE2zSSt5AOZPzddC3QL8w=
 		</data>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		itt8LiqLI2sC2fTnYmQ2CswYfR0=
+		+1FITUvk4AuuqlrmJsceaXpnzls=
 		</data>
 		<key>Headers/TLoginModel.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DFSXUvdoPoOMjcQrMzTll/3Yd5w=
+		DT3F6q08MFoIQD/cWyvHnzgbIj8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,33 +51,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nCbJWaZJ84X4/eIpyRaxrpqPa1M=
+			H8Pj8Gknp0u2cJiwGYctLOH1Nao=
 			</data>
 			<key>hash2</key>
 			<data>
-			V7lmCLru5tT2uZLLIZJ3mhb5Iuctmb4N/PkttJs6KDI=
+			R3kTFXt1Q79FmFqbkItccPAtu05ZpsvtdPImYICP8yc=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/TiCloudRTC</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K92oJogYI4Zzs6ISLo4EywZGIiE=
+			JZ2pN7WE2zSSt5AOZPzddC3QL8w=
 			</data>
 			<key>hash2</key>
 			<data>
-			TsnyONCr4K0eI0zhQzXvwYdWl+nIu2ZWcYB/fUAfcZI=
+			YtgazZYViKkHu4129TsGE4E2DiXzz7eEm/7rhVOcH+Q=
 			</data>
 		</dict>
 		<key>Frameworks/TiCloudRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			itt8LiqLI2sC2fTnYmQ2CswYfR0=
+			+1FITUvk4AuuqlrmJsceaXpnzls=
 			</data>
 			<key>hash2</key>
 			<data>
-			csFVxzboy6fSiZ3mb9K4ZQWteLVYU27YVm1Atq+t/QI=
+			43GDOG1kW8BThdu23ySFWV1zfYjaWldpMhk8PVJZHfY=
 			</data>
 		</dict>
 		<key>Headers/TLoginModel.h</key>
